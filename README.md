@@ -2,11 +2,9 @@
 
 <br/>
 
-<a href="https://discord.gg/qUbApEc">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
 
-<a href="https://www.linkedin.com/in/angadripudamansingh/">
+
+<a href="https://www.linkedin.com/in/angadripudamansinghbajwa/">
   <img align="left" alt="Angad's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -14,7 +12,9 @@
   <img align="left" alt="Angad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
+<a href="https://discord.gg/qUbApEc">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
 
 <br />
 
@@ -48,6 +48,6 @@
 
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=angadbajwa23&show_icons=true&hide_border=true)
 
 

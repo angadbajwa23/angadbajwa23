@@ -19,7 +19,7 @@
 <br />
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://in.pinterest.com/pin/449304500298392085/" />
   
 **Talking about Personal Stuffs:**
 

@@ -23,12 +23,10 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
-- 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 👨🏽‍💻 I’m currently working on Style Transfer 
+- 🌱 I’m currently learning CUDA and Pytorch; 
+- 👯 I’m looking to collaborate on Deep Learning and Computer Vision projects 🤝;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
 - 📫 How to reach me: geekyabhi12@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1jFEL0_KAJEd1mCiR_02SMwbBEuRMqpv7/view)
 

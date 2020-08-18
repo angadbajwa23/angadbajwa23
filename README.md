@@ -27,8 +27,8 @@
 - 🌱 I’m currently learning CUDA and Pytorch; 
 - 👯 I’m looking to collaborate on Deep Learning and Computer Vision projects 🤝;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: geekyabhi12@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1jFEL0_KAJEd1mCiR_02SMwbBEuRMqpv7/view)
+- 📫 How to reach me: angadisthere@gmail.com;
+- 📝[Resume](https://drive.google.com/file/d/1y0PaPhmFLcq37ixsT_Gmwx-WoOm_Q1iD/view?usp=sharing)
 
 **Languages and Tools:**  
 
@@ -46,6 +46,6 @@
 
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=angadbajwa23&show_icons=true&hide_border=true)
+![Angad's github stats](https://github-readme-stats.vercel.app/api?username=angadbajwa23&show_icons=true&hide_border=true)
 
 

@@ -12,14 +12,10 @@
   <img align="left" alt="Angad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://discord.gg/qUbApEc">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-
 <br />
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/xT0BKIMw1xrdhcqUaA/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 

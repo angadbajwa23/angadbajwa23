@@ -15,7 +15,7 @@
 <br />
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="200" height="200"/>
   
 **Talking about Personal Stuffs:**
 
@@ -25,8 +25,6 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: angadisthere@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1y0PaPhmFLcq37ixsT_Gmwx-WoOm_Q1iD/view?usp=sharing)
-
-
 
 ![Angad's github stats](https://github-readme-stats.vercel.app/api?username=angadbajwa23&show_icons=true&hide_border=true)
 

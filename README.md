@@ -26,6 +26,6 @@
 - 📫 How to reach me: angadisthere@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1y0PaPhmFLcq37ixsT_Gmwx-WoOm_Q1iD/view?usp=sharing)
 
-![Angad's github stats](https://github-readme-stats.vercel.app/api?username=angadbajwa23&show_icons=true&hide_border=true)
+
 
 

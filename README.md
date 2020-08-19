@@ -19,7 +19,7 @@
 <br />
 
 
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/hey-you-cant-remember-your-name-xT0BKIMw1xrdhcqUaA" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/xT0BKIMw1xrdhcqUaA/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 

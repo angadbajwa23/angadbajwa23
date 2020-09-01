@@ -27,5 +27,3 @@
 - 📝[Resume](https://drive.google.com/file/d/1y0PaPhmFLcq37ixsT_Gmwx-WoOm_Q1iD/view?usp=sharing)
 
 
-
-

@@ -1,7 +1,5 @@
 ### Hey 👋🏽, I'm Angad!
-
 <br/>
-
 <a href="https://www.linkedin.com/in/angadripudamansinghbajwa/">
   <img align="left" alt="Angad's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>

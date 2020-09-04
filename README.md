@@ -6,9 +6,9 @@
 <a href="https://www.instagram.com/angad3745/">
   <img align="left" alt="Angad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="200" height="200"/>
  </br> 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="200" height="200"/>
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Neural Style Transfer;

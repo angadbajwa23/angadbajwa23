@@ -8,7 +8,7 @@
 </a>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="200" height="200"/>
-  
+ </br> 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Neural Style Transfer;

@@ -3,10 +3,10 @@
 <a href="https://www.linkedin.com/in/angadripudamansinghbajwa/">
   <img align="left" alt="Angad's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <a href="https://www.instagram.com/angad3745/">
   <img align="left" alt="Angad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br />
 <br />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="200" height="200"/>
   

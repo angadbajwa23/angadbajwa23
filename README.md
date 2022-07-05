@@ -11,6 +11,6 @@
 
 **Talking about Personal Stuffs:**
 
-- 👯 I’m looking to collaborate on Deep Learning,Computer Vision and NLP projects 🤝;
+- 👯 I’m looking to collaborate on Data Science, Machine Learning and SOftware Development Projects 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: angadisthere@gmail.com;
